@@ -163,6 +163,8 @@ We are actively seeking:
 
 **Contact:** For partnership inquiries, technical collaboration, or investment discussions, reach out via [LinkedIn](https://www.linkedin.com/in/aditya-tiwari-jsr/).
 
+**Link to [Demo Video](https://www.youtube.com/watch?v=BpZiay8IQGI)
+
 ---
 
 **This document establishes a public declaration of the key concepts, principles, and architectural vision of the Nalanda Project as of June 20, 2025. The future of AI is not about scaling text prediction - it's about building systems that understand reality itself.**
