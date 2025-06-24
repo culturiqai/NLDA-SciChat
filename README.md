@@ -1,6 +1,6 @@
 # **The Nalanda Architecture (NLDA)**
 
-### **A Public Declaration of a Novel AGI Architecture**
+### **A Public Declaration of a Novel AGI(-like) Architecture**
 
 Author: Aditya Tiwari  
 Date of First Public Disclosure: June 20, 2025  
