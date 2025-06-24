@@ -23,6 +23,8 @@ NLDA is not a single model, but a hybrid system of specialized, interacting modu
 3. **Inherently Skeptical:** A "Reality Filter" module constantly cross-validates information between the language interface and the causal logic engine, minimizing hallucination and ensuring logical consistency.  
 4. **Actively Learning:** The architecture is designed for a continuous loop of active learning. It doesn't just process information; it identifies gaps in its own knowledge and initiates processes to fill them.
 
+## DEMO VIDEO LINK BELOW
+
 ## **3. Key Technological Pillars**
 
 The NLDA is made possible by three foundational breakthroughs:
@@ -163,7 +165,7 @@ We are actively seeking:
 
 **Contact:** For partnership inquiries, technical collaboration, or investment discussions, reach out via [LinkedIn](https://www.linkedin.com/in/aditya-tiwari-jsr/).
 
-**Link to [Demo Video](https://www.youtube.com/watch?v=BpZiay8IQGI)
+**Link to [Demo Video](https://www.youtube.com/watch?v=BpZiay8IQGI)**
 
 ---
 
